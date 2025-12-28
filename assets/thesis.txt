@@ -1,0 +1,1 @@
+Thesis placeholder: replace with your actual thesis PDF at assets/thesis.pdf
